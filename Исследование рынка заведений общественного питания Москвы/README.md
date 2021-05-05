@@ -15,4 +15,5 @@
 - geopandas;
 - folium;
 - requests;
-- io.
+- io;
+- plotly.
