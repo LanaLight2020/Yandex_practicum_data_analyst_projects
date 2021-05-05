@@ -19,4 +19,5 @@
 - pandas;
 - matplotlib;
 - seaborn;
-- numpy.
+- numpy;
+- warnings.
