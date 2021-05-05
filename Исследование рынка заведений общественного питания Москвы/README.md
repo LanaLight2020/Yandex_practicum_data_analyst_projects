@@ -13,4 +13,6 @@
 - seaborn;
 - numpy;
 - geopandas;
-- folium.
+- folium;
+- requests;
+- io.
